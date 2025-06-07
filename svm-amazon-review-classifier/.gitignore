@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Model ve çıktı dosyaları
+models/*.pkl
+
+# VSCode ve IDE dosyaları
+.vscode/
+.idea/
+
+# MacOS/Linux/Windows sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam dosyaları
+.env
+.venv/
+venv/
